@@ -55,7 +55,7 @@ p{
 .bottom_cloud {
   position: absolute;
   bottom: 150px;
-  left: 200px;
+  left: 50px;
 }
 
 .copyright-msg{
@@ -106,7 +106,7 @@ p{
 
 .top {
   background-color: #e4f9f5;
-  padding-top: 50px;
+  padding-top: 200px;
   position: relative;
 }
 
